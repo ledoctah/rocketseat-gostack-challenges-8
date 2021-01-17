@@ -25,6 +25,7 @@
     "yup": "^0.29.0"
   },
   "devDependencies": {
+    "@types/axios": "^0.14.0",
     "@types/react-router-dom": "^5.1.4",
     "@types/styled-components": "^5.1.0",
     "@types/yup": "^0.26.36",
